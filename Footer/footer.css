@@ -1,0 +1,28 @@
+footer{
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+#footer{
+    padding: 5% 20%;
+}
+.colorHeading{
+    color: yellow;
+}
+#footerTable{
+    text-align: center;
+    border: 1px solid white;
+    width: 100%;
+    padding: 20px;
+}
+.tableContent{
+    font-size: 20px;
+
+}
+#footerTable td:hover{
+    font-size: 21px;
+    color: red;
+}
+#footerBottomContent{
+    font-size: 20px;
+}
